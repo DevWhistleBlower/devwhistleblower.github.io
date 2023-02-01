@@ -1,4 +1,4 @@
-# baseURL: http://devwhistleblower.github.io
+baseURL: http://devwhistleblower.github.io
 paginate: 10
 theme: "PaperMod"
 languageCode: en-us
